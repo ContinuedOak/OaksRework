@@ -6,3 +6,6 @@ No outside mods should be required to make this mod work, although a [Config](ht
 
 ## Shader to use
 [Oaks Rework Shader](https://github.com/ContinuedOak/OaksRework-Shaders)
+
+## Change Logs
+[Latest](https://www.oakmods.com/wiki/oaks-rework/change-log/indev/build-v2)
