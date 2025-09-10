@@ -8,4 +8,4 @@ No outside mods should be required to make this mod work, although a [Config](ht
 [Oaks Rework Shader](https://github.com/ContinuedOak/OaksRework-Shaders)
 
 ## Change Logs
-[Latest](https://www.oakmods.com/wiki/oaks-rework/change-log/indev/build-v2)
+[Latest Build](https://www.oakmods.com/wiki/oaks-rework/change-log/indev/build-v2)
