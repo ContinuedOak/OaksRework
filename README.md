@@ -9,3 +9,6 @@ No outside mods should be required to make this mod work, although a [Config](ht
 
 ## Change Logs
 [Latest Build](https://www.oakmods.com/wiki/oaks-rework/change-log/indev/build-v2)
+
+## Road Map
+[2025/26](https://www.oakmods.com/road-map/2025/26)
